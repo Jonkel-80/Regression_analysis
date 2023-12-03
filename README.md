@@ -10,11 +10,10 @@ $$ Intercept = \frac {\sum_{i=1}^n y_i - m \sum_{i=1}^n y_i} {n} $$
 
 $$ slope = \frac {\sum_{i=1}^n (x_i - x_{mean})(y_i-y_{mean})} {\sum_{i=1}^n (x_i - x_{mean})(x_i - x_{mean})} $$
 
-
-**Where:**
-- $$ x_i $$ = Values of x 
-- $ x_{mean} $ = Mean value of x values 
-- $ y_i $ = Values of y 
-- $ y_{mean} $ = Mean value of y values
-- m = slope
-- n = Number of observation points
+#### Where:
+- $x_i$  = Values of x 
+- $x_{mean}$ = Mean value of x values 
+- $y_i$ = Values of y 
+- $y_{mean}$ = Mean value of y values
+- $m$ = slope
+- $n$ = Number of observation points
