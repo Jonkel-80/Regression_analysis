@@ -17,3 +17,5 @@ $$ slope = \frac {\sum_{i=1}^n (x_i - x_{mean})(y_i-y_{mean})} {\sum_{i=1}^n (x_
 - $y_{mean}$ = Mean value of y values
 - $m$ = slope
 - $n$ = Number of observation points
+  
+Both methods were used to calculate the slope and intercepted. These gave the same results.
